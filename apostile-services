@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apostille Service Advertisement</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;600&display=swap');
+
+        * {
+            font-family: 'Space Grotesk', sans-serif !important;
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: inherit !important;
+        }
+
+        #MessageViewBody a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        p {
+            line-height: inherit;
+        }
+
+        .iframe-container {
+            background-color: #FEF1E5;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 40px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            border-radius: 20px;
+            overflow: auto;
+        }
+
+        .iframe-header {
+            background-color: #F6F6F6;
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600; /* Using 600 weight for header text */
+            color: #000;
+        }
+
+        .iframe-content {
+            padding: 15px;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #211252;
+            font-weight: 300; /* Using 300 weight for other text */
+        }
+
+        .iframe-content p {
+            margin: 10px 0;
+        }
+
+        .iframe-buttons {
+            text-align: center;
+            margin-top: 10px;
+            padding-bottom: 20px;
+        }
+
+        .iframe-buttons a {
+            display: inline-block;
+            margin: 0 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #684490;
+            background-color: transparent;
+            border: 2px solid #684490;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s, color 0.3s
+        }
+
+        .iframe-buttons a:hover {
+            background-color: #684490;
+            color: #fff;
+        }
+
+        .discount {
+            color: #E57E2C;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+        }
+
+        .iframe-image {
+            text-align: center;
+            background-color: #F6F6F6;
+            padding: 15px;
+        }
+
+        .iframe-image img {
+            max-width: 60%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="iframe-container">
+        <div class="iframe-image">
+            <a href="https://imgbb.com/">
+                <img src="https://i.ibb.co/rHzVQTn/logo-withwesiteurl-transparentbackground.png" alt="Apostille Service Logo" border="0">
+            </a>
+        </div>
+        <div class="iframe-header">
+            Apostille Service
+        </div>
+        <div class="iframe-content">
+            <p>
+                Apostille certificate for all 'standard' documents that do not require solicitor certification. Price includes government fee and vat.
+            </p>
+            <p>
+                Includes Birth, Marriage and Death Certificates, No Impediments, Court Documents, NPCC, ICPC and ACRO Background Checks, Government documents and Solicitor or Notary Certifications. Medical Notes Signed by a Doctor - INK SIGNED - not a copy signature!
+            </p>
+            <p>
+                This service ensures your document is correctly legalised for use in any country that is part of the Hague Apostille Convention.
+            </p>
+            <p class="discount">
+                Get 10% off the services through the links below!
+            </p>
+        </div>
+        <div class="iframe-buttons">
+            <a href="https://www.hagueapostille.co.uk/apostille-service" target="_blank">Learn More</a>
+            <a href="https://www.hagueapostille.co.uk/order/apostille-certificate-only" target="_blank">Order Now</a>
+        </div>
+    </div>
+
+</body>
+
+</html>
